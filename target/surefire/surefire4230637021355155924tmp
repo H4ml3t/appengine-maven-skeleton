@@ -1,0 +1,5 @@
+#surefire
+#Mon Oct 28 19:21:36 CET 2013
+user.dir=C\:\\Users\\Luca\\workspace\\test-maven
+localRepository=C\:\\Users\\Luca\\.m2\\repository
+basedir=C\:\\Users\\Luca\\workspace\\test-maven

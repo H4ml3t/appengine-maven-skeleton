@@ -1,0 +1,27 @@
+#surefire
+#Mon Oct 28 23:16:22 CET 2013
+testClassesDirectory=C\:\\Users\\Luca\\workspace\\test-maven\\target\\test-classes
+classPathUrl.4=C\:\\Users\\Luca\\.m2\\repository\\jstl\\jstl\\1.2\\jstl-1.2.jar
+forkMode=once
+classPathUrl.3=C\:\\Users\\Luca\\.m2\\repository\\javax\\servlet\\servlet-api\\2.5\\servlet-api-2.5.jar
+classPathUrl.2=C\:\\Users\\Luca\\.m2\\repository\\com\\google\\appengine\\appengine-api-1.0-sdk\\1.7.5\\appengine-api-1.0-sdk-1.7.5.jar
+useManifestOnlyJar=true
+classPathUrl.1=C\:\\Users\\Luca\\workspace\\test-maven\\target\\classes
+reportsDirectory=C\:\\Users\\Luca\\workspace\\test-maven\\target\\surefire-reports
+classPathUrl.0=C\:\\Users\\Luca\\workspace\\test-maven\\target\\test-classes
+providerConfiguration=org.apache.maven.surefire.junit.JUnit3Provider
+testSuiteDefinitionTestSourceDirectory=C\:\\Users\\Luca\\workspace\\test-maven\\src\\test\\java
+surefireClassPathUrl.1=C\:\\Users\\Luca\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-api\\2.10\\surefire-api-2.10.jar
+surefireClassPathUrl.0=C\:\\Users\\Luca\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-junit3\\2.10\\surefire-junit3-2.10.jar
+runOrder=filesystem
+useSystemClassLoader=true
+excludes0=**/*$*
+isTrimStackTrace=true
+enableAssertions=true
+includes2=**/*TestCase.java
+failIfNoTests=false
+includes1=**/*Test.java
+includes0=**/Test*.java
+childDelegation=false
+classPathUrl.6=C\:\\Users\\Luca\\.m2\\repository\\com\\google\\appengine\\appengine-api-stubs\\1.7.5\\appengine-api-stubs-1.7.5.jar
+classPathUrl.5=C\:\\Users\\Luca\\.m2\\repository\\com\\google\\appengine\\appengine-testing\\1.7.5\\appengine-testing-1.7.5.jar
